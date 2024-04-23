@@ -16,6 +16,9 @@
 - System Design & Development End-to-end process: System Build -> System Deploy (AWS) -> System Monitoring
 - Course Overview: Basic -> Math -> NodeJS API Development -> Rate Limit Module -> Load Balancer -> Docker -> Microservices -> Kubernetes -> Redis, RabbitMQ
 
+## All modules google drive link
+1. Module - 01: https://drive.google.com/drive/folders/1uBsFOsyOd09Tcj8nVyqDUjuZKgkaMxOM
+
 ## Networking lecture
 <img src="images/networking-1.jpeg" alt="Networking 1" height="600" width="700">
 <img src="images/networking-2.jpeg" alt="Networking 2" height="600" width="700">
