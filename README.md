@@ -15,3 +15,16 @@
 ## System Design & Backend Development Course Overview
 - System Design & Development End-to-end process: System Build -> System Deploy (AWS) -> System Monitoring
 - Course Overview: Basic -> Math -> NodeJS API Development -> Rate Limit Module -> Load Balancer -> Docker -> Microservices -> Kubernetes -> Redis, RabbitMQ
+
+## Networking lecture
+<img src="images/networking-1.jpeg" alt="Networking 1" height="600" width="700">
+<img src="images/networking-2.jpeg" alt="Networking 2" height="600" width="700">
+<img src="images/networking-3.jpeg" alt="Networking 3" height="600" width="700">
+<img src="images/networking-4.jpeg" alt="Networking 4" height="600" width="700">
+<img src="images/networking-5.jpeg" alt="Networking 5" height="600" width="700">
+<img src="images/networking-6.jpeg" alt="Networking 6" height="600" width="700">
+<img src="images/networking-7.jpeg" alt="Networking 7" height="600" width="700">
+
+## Networking resources
+1. Practical Networking:https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/
+2. Networking and Kubernetes: A Layered Approach Book: https://dokumen.pub/networking-and-kubernetes-a-layered-approach-1nbsped-1492081655-9781492081654.html
