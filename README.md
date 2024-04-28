@@ -20,6 +20,7 @@
 1. Module - 01: https://drive.google.com/drive/folders/1uBsFOsyOd09Tcj8nVyqDUjuZKgkaMxOM
 
 ## Networking lecture
+### Class ONE
 <img src="images/networking-1.jpeg" alt="Networking 1" height="600" width="700">
 <img src="images/networking-2.jpeg" alt="Networking 2" height="600" width="700">
 <img src="images/networking-3.jpeg" alt="Networking 3" height="600" width="700">
@@ -31,3 +32,12 @@
 ## Networking resources
 1. Practical Networking:https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/
 2. Networking and Kubernetes: A Layered Approach Book: https://dokumen.pub/networking-and-kubernetes-a-layered-approach-1nbsped-1492081655-9781492081654.html
+
+### Class TWO
+<img src="images/networking-8.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-9.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-10.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-11.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-12.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-13.jpeg" alt="Networking 7" height="600" width="700">
+<img src="images/networking-14.jpeg" alt="Networking 7" height="600" width="700">
