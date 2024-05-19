@@ -17,7 +17,7 @@
 - Course Overview: Basic -> Math -> NodeJS API Development -> Rate Limit Module -> Load Balancer -> Docker -> Microservices -> Kubernetes -> Redis, RabbitMQ
 
 ## All modules google drive link
-1. Module - 01: https://drive.google.com/drive/folders/1uBsFOsyOd09Tcj8nVyqDUjuZKgkaMxOM
+1. Module - 01: https://drive.google.com/drive/folders/1e7fyBRqZvwZMPBiX7ykhw2NF74Jaym2R
 
 ## Networking lecture
 ### Class ONE
