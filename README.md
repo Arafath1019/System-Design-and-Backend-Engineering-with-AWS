@@ -19,7 +19,7 @@
 ## All modules google drive link
 1. All modules: https://drive.google.com/drive/folders/1e7fyBRqZvwZMPBiX7ykhw2NF74Jaym2R
 
-## Networking lecture
+## MODULE ONE: SYSTEM DESIGN BASICS
 ### Class ONE
 <img src="images/module-one/networking-1.jpeg" alt="Networking 1" height="600" width="700">
 <img src="images/module-one/networking-2.jpeg" alt="Networking 2" height="600" width="700">
@@ -53,3 +53,21 @@
 <img src="images/module-one/networking-20.jpeg" alt="Networking 17" height="600" width="700">
 <img src="images/module-one/networking-21.jpeg" alt="Networking 17" height="600" width="700">
 <img src="images/module-one/networking-22.jpeg" alt="Networking 17" height="600" width="700">
+
+## MODULE TWO: MATHEMATICS FOR SYSTEM DESIGN
+
+
+## MODULE THREE: NODEJS API DEVELOPMENT
+### Section: NODEJS
+#### What is NodeJS
+<img src="images/module-three/1.jpeg" alt="Networking 17" height="600" width="700">
+
+### Section: NODEJS ESSENTIALS
+#### How to do it in Backend
+<img src="images/module-three/2.jpeg" alt="Networking 17" height="600" width="700">
+<img src="images/module-three/3.jpeg" alt="Networking 17" height="600" width="700">
+
+#### How to do it in Backend - Get Request in Details
+<img src="images/module-three/4.jpeg" alt="Networking 17" height="600" width="700">
+<img src="images/module-three/5.jpeg" alt="Networking 17" height="600" width="700">
+<img src="images/module-three/6.jpeg" alt="Networking 17" height="600" width="700">
