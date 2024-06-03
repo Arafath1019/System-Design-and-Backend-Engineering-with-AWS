@@ -71,3 +71,7 @@
 <img src="images/module-three/4.jpeg" alt="Networking 17" height="600" width="700">
 <img src="images/module-three/5.jpeg" alt="Networking 17" height="600" width="700">
 <img src="images/module-three/6.jpeg" alt="Networking 17" height="600" width="700">
+
+#### How to do it in Backend- Post API Request
+<img src="images/module-three/7.jpeg" alt="Networking 17" height="600" width="700">
+<img src="images/module-three/8.jpeg" alt="Networking 17" height="600" width="700">
