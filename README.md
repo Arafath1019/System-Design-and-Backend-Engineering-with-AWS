@@ -78,3 +78,7 @@
 
 #### DATA FLOW
 <img src="images/module-three/9.jpeg" alt="Networking 17" height="600" width="700">
+
+#### Installing Postgres Pgadmin
+1. Download and install PostgreSQL: https://www.postgresql.org/download/
+2. Download and install PgAdmin4: https://www.pgadmin.org/download/

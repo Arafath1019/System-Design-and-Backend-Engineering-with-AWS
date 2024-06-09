@@ -1,2 +1,0 @@
-1. Download and install PostgreSQL: https://www.postgresql.org/download/
-2. Download and install PgAdmin4: https://www.pgadmin.org/download/
