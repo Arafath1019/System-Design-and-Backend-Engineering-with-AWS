@@ -106,3 +106,9 @@ INSERT INTO person (name, age, result) VALUES
 ```
 4. Process flow
 <img src="images/module-three/10.jpeg" alt="Networking 17" height="150" width="100%">
+
+#### Routing in Node JS Application
+1. Layered Architecture of Node JS
+<img src="images/module-three/11.jpeg" alt="Networking 17" height="300" width="100%">
+2. Layered Architecture Flow
+<img src="images/module-three/12.jpeg" alt="Networking 17" height="300" width="100%">
