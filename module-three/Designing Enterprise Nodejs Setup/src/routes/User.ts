@@ -45,3 +45,29 @@ router.delete("/user/:id", async (req, res) => {
     return res.status(500).send("Failed to delete the user");
   }
 });
+
+// PUT endpoint to update a user
+router.put("/user/:id", async (req, res) => {
+  const id = parseInt(req.params.id);
+  const { firstName, lastName, age } = req.body;
+  if(!id){
+    return res.status(400).send("Invalid ID");
+  }
+  try {
+    const userToUpdate = await userRepo.findOneBy({ id: id});
+    if(!userToUpdate){
+      return res.status(404).send("User not found");
+    }
+
+    // Update the user properties
+    userToUpdate.firstName = firstName;
+    userToUpdate.lastName = lastName;
+    userToUpdate.age = age;
+
+    // Save the updated user
+    const updatedUser = await userRepo.save(userToUpdate);
+    return res.status(200).send(updatedUser);
+  } catch (error) {
+    return res.status(500).send("Failed to update the user");
+  }
+})
