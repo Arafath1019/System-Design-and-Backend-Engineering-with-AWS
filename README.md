@@ -115,3 +115,44 @@ INSERT INTO person (name, age, result) VALUES
 
 #### What is ORM?
 <img src="images/module-three/13.jpeg" alt="Networking 17" height="300" width="100%">
+
+#### Designing Enterprise Nodejs Systems
+1. Best Practices for enterprise nodejs systems
+* Typescript
+* ORM
+
+2. Install typescript globally
+```
+$ npm install -g typescript
+// Check typescript version
+$ tsc -v
+```
+3. Install ts-node globally
+```
+$ npm install -g ts-node
+// Check ts-node installed version 
+$ ts-node -v
+```
+4. Install typeorm globally
+```
+$ npm i -g typeorm
+```
+5. Initialize a new project with typeorm CLI including PostgreSQL as Database inside project directory
+```
+$ typeorm init
+```
+6. Start project
+```
+$ npm start
+```
+7. How model/entity works as DB query
+<img src="images/module-three/14.jpeg" alt="Networking 17" height="300" width="100%">
+
+8. How AppDataSource of TypeORM connect with DB
+<img src="images/module-three/15.jpeg" alt="Networking 17" height="300" width="100%">
+
+9. How AppDataSource build live connection and make queries from DB
+<img src="images/module-three/16.jpeg" alt="Networking 17" height="300" width="100%">
+
+10. Dataflow from DB to Client App via node app using ORM
+<img src="images/module-three/17.jpeg" alt="Networking 17" height="300" width="100%">
