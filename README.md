@@ -120,6 +120,7 @@ INSERT INTO person (name, age, result) VALUES
 1. Best Practices for enterprise nodejs systems
 * Typescript
 * ORM
+* ExpressJS
 
 2. Install typescript globally
 ```
@@ -156,3 +157,14 @@ $ npm start
 
 10. Dataflow from DB to Client App via node app using ORM
 <img src="images/module-three/17.jpeg" alt="Networking 17" height="300" width="100%">
+
+11. Install Express & Express Types with TypeORM for TypeScript
+```
+$ npm i express
+$ npm i --save-dev @types/express
+```
+
+12. Add esModuleInterop true inside the tsconfig.json file to enable es module import
+```
+"esModuleInterop": true
+```
