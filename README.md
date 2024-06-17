@@ -112,3 +112,6 @@ INSERT INTO person (name, age, result) VALUES
 <img src="images/module-three/11.jpeg" alt="Networking 17" height="300" width="100%">
 2. Layered Architecture Flow
 <img src="images/module-three/12.jpeg" alt="Networking 17" height="300" width="100%">
+
+#### What is ORM?
+<img src="images/module-three/13.jpeg" alt="Networking 17" height="300" width="100%">
