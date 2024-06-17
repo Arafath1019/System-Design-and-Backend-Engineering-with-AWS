@@ -5,11 +5,13 @@ export const router = Router();
 
 const userRepo = AppDataSource.getRepository(User);
 
+// GET endpoint to get all users
 router.get("/users", async (req, res) => {
   const users = await userRepo.find();
   res.send(users);
 });
 
+// POST endpoint to create a new user
 router.post("/user", async (req, res) => {
   const { firstName, lastName, age } = req.body;
 
@@ -23,5 +25,23 @@ router.post("/user", async (req, res) => {
     res.status(201).send(savedUser);
   } catch (error) {
     res.status(500).send("Failed to create a new student");
+  }
+});
+
+// DELETE endpoint to delete a user
+router.delete("/user/:id", async (req, res) => {
+  const id = parseInt(req.params.id);
+  if (!id) {
+    return res.status(400).send("Invalid ID");
+  }
+
+  try {
+    const result = await userRepo.delete(id);
+    if (result.affected === 0) {
+      return res.status(404).send("User not found");
+    }
+    return res.status(200).send("User deleted successfully");
+  } catch (error) {
+    return res.status(500).send("Failed to delete the user");
   }
 });

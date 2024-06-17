@@ -1,7 +1,7 @@
 import "reflect-metadata";
 import { AppDataSource } from "./data-source";
 import express from "express";
-import { router as StudentRouter } from "../src/routes/Student";
+import { router as StudentRouter } from "./routes/User";
 const app = express();
 // Middleware to parse JSON bodies
 app.use(express.json());
