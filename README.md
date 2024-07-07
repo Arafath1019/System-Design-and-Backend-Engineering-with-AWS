@@ -170,6 +170,7 @@ $ npm i --save-dev @types/express
 ```
 
 #### Microservice Approach For Backend Services
+1. Designing Data-Intensive Applications Book - https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
 <img src="images/module-three/18.jpeg" alt="Networking 17" height="500" width="100%">
 <img src="images/module-three/19.jpeg" alt="Networking 17" height="700" width="100%">
 <img src="images/module-three/20.jpeg" alt="Networking 17" height="500" width="100%">
