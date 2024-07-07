@@ -168,3 +168,14 @@ $ npm i --save-dev @types/express
 ```
 "esModuleInterop": true
 ```
+
+#### Microservice Approach For Backend Services
+<img src="images/module-three/18.jpeg" alt="Networking 17" height="500" width="100%">
+<img src="images/module-three/19.jpeg" alt="Networking 17" height="700" width="100%">
+<img src="images/module-three/20.jpeg" alt="Networking 17" height="500" width="100%">
+<img src="images/module-three/21.jpeg" alt="Networking 17" height="700" width="100%">
+<img src="images/module-three/22.jpeg" alt="Networking 17" height="300" width="100%">
+<img src="images/module-three/23.jpeg" alt="Networking 17" height="450" width="100%">
+<img src="images/module-three/24.jpeg" alt="Networking 17" height="700" width="100%">
+<img src="images/module-three/25.jpeg" alt="Networking 17" height="500" width="100%">
+<img src="images/module-three/26.jpeg" alt="Networking 17" height="300" width="100%">
