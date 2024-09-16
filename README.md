@@ -1,10 +1,7 @@
-# System-Design-and-Backend-Engineering-with-AWS---Poridhi
+# System-Design-and-Backend-Engineering-with-AWS
 
 ## Helping resource
 1. https://excalidraw.com/
-
-## Course Information
-- Course Link: https://poridhi.io/course-details/7f406007-fb7a
 
 ## System Design Resources
 - Grokking the System Design Book
